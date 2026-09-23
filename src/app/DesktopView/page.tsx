@@ -108,7 +108,7 @@ const DesktopView = () => {
             placeholder="blur"
             unoptimized
             blurDataURL="/music.webp"
-            className="object-cover object-[30%_center] lg:object-center -z-10 select-none pointer-events-none"
+            className="object-cover brightness-70 backdrop-blur-[1px] object-[30%_center] lg:object-center -z-10 select-none pointer-events-none"
           />
           <div className="flex justify-self-end m-10 hidden xl:flex ">
             <h1 className=" mt-2 w-fit h-fit rotate-180 [writing-mode:vertical-rl] text-[32px] tracking-tight leading-tight mix-blend-soft-light  font-['chillax'] font-bold">
