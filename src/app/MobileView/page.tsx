@@ -30,7 +30,7 @@ const MobileView = () => {
                   <div className=" text-center  eyebrow ml-4.5 font-chillax font-extralight text-[12px] text-white/50 tracking-widest">
                     ON TAPE // Acoustic Imperfection{" "}
                   </div>
-                  <div className=" HeadText flex justify-center  items-center w-fit h-fit ">
+                  <div className=" HeadText flex justify-center  items-baseline w-fit h-fit ">
                     <h1 className=" text-center shrink-0 w-fit h-max text-[clamp(30px,5vw,34px)] sm:text-[40px] font-chillax  ml-4 leading-tight mt-3 mb-5 ">
                       Half Interview,
                       <br />
