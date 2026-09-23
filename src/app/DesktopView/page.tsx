@@ -25,7 +25,7 @@ const DesktopView = () => {
                   <div className="  eyebrow ml-4.5 font-chillax font-extralight text-[12px] lg:text-[14px] text-white/50 tracking-widest">
                     ON TAPE // Acoustic Imperfection{" "}
                   </div>
-                  <div className=" HeadText flex justify-center  items-center w-fit h-fit ">
+                  <div className=" HeadText flex justify-center  items-baseline w-fit h-fit ">
                     <h1 className=" shrink-0 w-fit h-max text-[26px] md:text-[clamp(26px,3.5vw,32px)]  2xl:text-[32px] font-regular font-chillax text-start ml-4 leading-tight mt-3 mb-5 ">
                       Half Interview,
                       <br />
